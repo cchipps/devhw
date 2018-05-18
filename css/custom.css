@@ -1,0 +1,210 @@
+@charset "utf-8";
+/*---------------------------------------------------------------------
+VER 1.0.3
+AUTHOR: CHRIS CHIPPS
+DATE:	05/17/2018
+NOTES:	Over-lay for twitter bootsrap themed site.
+---------------------------------------------------------------------*/
+/* FONTS
+-------------------------------------------------- */
+
+
+/* GENERAL  STYLES
+-------------------------------------------------- */
+html,body {
+    height:100%;
+    margin:0;
+    padding:0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+    font-size:1.2em;
+	color: #3C4446;
+    background:url("../assets/pw_maze_white.png") repeat;  
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 3.5em; 
+  color:#3f484b; 
+}
+  
+h2 {
+  font-weight: normal;
+  font-size: 2em;
+  color:#3f484b;
+} 
+ 
+h2,
+h3,
+h4,
+h5 {
+  font-weight: normal;
+}
+h6 {
+  color: #333;
+  font-weight: normal;
+}
+
+h1.liner {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 5px solid #EEF2F5; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+   font-weight: bold;
+   color:#3f484b; 
+} 
+
+h1.liner span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+
+section	{
+	margin-top:60px;
+	position:relative;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.color-red {
+    color:#ff0000;
+}
+
+.color-green {
+    color:#07BB00;
+}
+
+.color-light-blue {
+    color:#4c9bee;
+}
+
+.color-blue {
+    color:#0052FF;
+}
+.color-brown {
+    color:#EB8F2D;
+}
+.color-black {
+    color:#000000;
+}
+
+.color-purple {
+    color:#660066;
+}
+
+.color-grey {
+	color:#7d8f95;
+}
+
+.bk-color-red {
+    background-color:#ff0000;
+}
+
+.bk-color-green {
+    background-color:#07BB00;
+}
+
+.bk-color-light-blue {
+    background-color:#BB00BB;
+}
+
+.bk-color-blue {
+    background-color:#0052FF;
+}
+
+.bk-color-brown {
+    background-color:#EB8F2D;
+}
+
+.bk-color-black {
+   background-color:#000000;
+}
+
+.bk-color-grey {
+   background-color:#999;
+}
+
+.margin-5 {
+    margin:5px;
+}
+.margin-top-20 {
+    margin-top:20px;
+}
+
+.margin-top-100 {
+    margin-top:100px;
+}
+
+.margin-bottom-100 {
+    margin-bottom:100px;
+}
+
+.margin-bottom-30 {
+    margin-bottom:30px;
+}
+
+.margin-bottom-50 {
+    margin-bottom:50px;
+}
+
+.margin-left-30 {
+    margin-left:30px;
+}
+
+.padding-right-85 {
+    padding-right:85px;
+}
+
+.padding-left-85 {
+    padding-left:85px;
+}
+
+.padding-bottom-100 {
+    padding-bottom:75px;
+}
+
+.padding-bottom-50 {
+    padding-bottom:50px;
+}
+
+.padding-top-75 {
+    padding-top:75px;
+}
+
+.shadow {	
+	-webkit-box-shadow: .5px 1px .5px rgba(0, 0, 0, .2);
+	   -moz-box-shadow: .5px 1px .5px rgba(0, 0, 0, .2);
+          	box-shadow: .5px 1px .5px rgba(0, 0, 0, .2);
+}
+
+.rounded-corners {
+	border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.no-border {	
+	border-color: transparent;
+}
+
+.no-border:hover {	
+	border-color: transparent;
+}
+
+.panel, .panel-footer	{
+	background-color:#F8F8F8;
+}
+
+.panel-default {	
+	border-color: #F9F9F9;
+}
+
+.panel-footer	{
+	padding:15px 20px 30px 20px;
+}
