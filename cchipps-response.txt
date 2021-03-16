@@ -1,0 +1,13 @@
+What was the goal and what were the requirements?
+A simple jQuery Reddit Consumer that uses only jQuery and api to consume a Reddit page.
+Requirements: no database, light code, css, js, and use Reddit api, 8 hours total time to spend on example. 
+How does the work meet (or not meet) the goal and requirements? 
+All objectives met. 
+How does it work? (big picture: think about how you would describe this to someone who was going to review the code or add functionality, to get them started)
+Speaking to someone who was going to review the code, I would be refined in steps to install and use. I would also describe results and set expectations. Download the repository browse to the index.html page and open in a web browser. 
+Who did you work on this with, and which parts were you responsible for? (If there is no commit or ticket history to review, please be very explicit here)
+I completed all of the custom work on this repository.  
+If you were to do it again, what would you do differently? OR If you could spend more time, what would you add/improve?
+I completed this project in less than 2 hours, I would add tests and improve navigation. 
+How do I run this code on my own web server so I can try it out?
+Yes, web server not necessary! Please test away! 
